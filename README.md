@@ -11,14 +11,14 @@
 - 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Golang • GIT • Laravel • JavaScript • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux
 - 🏆📖 HackerRank - https://www.hackerrank.com/vivesht
 - ⛰️🧗‍♂️ - Hobby :- Love Trekking
-         “Of all the paths you take in life, make sure a few of them are dirt.”
+          * “Of all the paths you take in life, make sure a few of them are dirt.”
                                                                   - John Muir
-         “The best views comes after the hardest climb.”
-         “It feels good to be lost in the right direction .”
-         “This is something to be lived, not read about.”
-                                                           - Alfred Wainwright
+          * “The best views comes after the hardest climb.”
+          * “It feels good to be lost in the right direction .”
+          * “This is something to be lived, not read about.”
+                                                                 - Alfred Wainwright
 - 💞️ I’m looking to collaborate on ⏳
-
+    *     🍁    *
 - 📫 How to reach me - LinkedIn - https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
