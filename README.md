@@ -18,7 +18,7 @@
           * “This is something to be lived, not read about.”
                                                                  - Alfred Wainwright
 - 💞️ I’m looking to collaborate on ⏳
-    *     🍁    *
+    *     🍁
 - 📫 How to reach me - LinkedIn - https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
