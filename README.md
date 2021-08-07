@@ -1,16 +1,25 @@
-- 👋 Hi, I’m @574n13y
-- 👀 I’m interested in DevOps Engineer · Cloud Engineer . Platform Engineer .
-- 🌱 I’m currently learning Cloudwatch, NewRelic, Nagios, Docker, Vagrant, Kubernetes, Ansible, Chef, Fabric, Puppet, SaltStack, Linux System Admin, Bash Scripting, automated CI/CD pipelines
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-DATABASE – MYSQL.
-APPLICATION SERVER – Apache, Samba, NFS, FTP.
-SECURITY – Firewall.
-SCRIPTING – Python, Java Script.
-TOOLS / FRAMEWORK – Arch Linux, Laravel, Node.JS, Raspberry PI.
-SERVER – RHCA, RHCE Training (REDHAT).
-NETWORKING – CCNA Routing and Switching Training (Cisco Certified Network Associate).
-https://www.hackerrank.com/vivesht
+- 👋 Hi, I’m Vivesh Tyagi
+- 👨‍💻 Currently working as Cloud Operations Specialist.
+    ☁️
+     * Experience working with public cloud – Google
+     * Experience in managing/maintaining various cloud-based platforms.
+     * Familiarity with ITIL
+     * Arch Linux 
+- 📜 About me -  Empathy, Patience, Resolving Conflict, Phone skills, Positive Attitude, Active Listening, Team Work, Time Management, Critical Thinking.
+- 👀 I’m interested in Cloud Engineer · Cloud Specialist · DevOps Engineer · Cloud Architect · Site Reliability Engineer
+- 📚 I’m currently learning Cloudwatch, NewRelic, Nagios, Docker, Vagrant, Kubernetes, Ansible, Chef, Fabric, Puppet, SaltStack.
+- 📈 Skills - Python (Programming Language) • Node.js • CCNA Networking • Database Management System (DBMS) • Golang • GIT • Laravel • JavaScript • Amazon Web Services (AWS) • Google Cloud Platform (GCP) • Good command on Arch Linux
+- 🏆📖 HackerRank - https://www.hackerrank.com/vivesht
+- ⛰️🧗‍♂️ - Hobby :- Love Trekking
+         “Of all the paths you take in life, make sure a few of them are dirt.”
+                                                                  - John Muir
+         “The best views comes after the hardest climb.”
+         “It feels good to be lost in the right direction .”
+         “This is something to be lived, not read about.”
+                                                           - Alfred Wainwright
+- 💞️ I’m looking to collaborate on ⏳
+
+- 📫 How to reach me - LinkedIn - https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
