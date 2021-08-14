@@ -14,7 +14,11 @@
 - 💞️ I’m looking to collaborate on ⏳
     *🍁
 - 📫 How to reach me - LinkedIn - https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/
+- 
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&count_private=true&show_icons=true&hide=issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=574n13y&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
