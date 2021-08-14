@@ -4,7 +4,8 @@
      * Experience working with public cloud – Google
      * Experience in managing/maintaining various cloud-based platforms.
      * Familiarity with ITIL
-     * Arch Linux 
+     * Arch Linux
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&count_private=dark&show_icons=true&hide=issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=574n13y&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
