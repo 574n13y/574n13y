@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivesh Tyagi
-- 👨‍💻 Currently working as Cloud Operations Specialist.
+- 👨‍💻 Currently working as a Cloud Operations Specialist.
     ☁️
     
 ## Cloud Platforms ![70%](https://progress-bar.dev/70)  Leadership ![90%](https://progress-bar.dev/90)   Customer Experience ![100%](https://progress-bar.dev/100)
@@ -14,7 +14,10 @@
 <img src="dont/h1.gif?raw=true"/>
 
 - 👀 I’m interested in Cloud Engineer · Cloud Specialist · DevOps Engineer · Cloud Architect · Site Reliability Engineer
-- 📚 I’m currently learning Cloudwatch, NewRelic, Nagios, Docker, Vagrant, Kubernetes, Ansible, Chef, Fabric, Puppet, SaltStack.
+  ![image](https://github.com/574n13y/574n13y/assets/35293085/46dfc20c-4624-4656-a0a6-4a498f35e93f)
+  ![image](https://github.com/574n13y/574n13y/assets/35293085/bc74f390-fc31-42fe-b7cd-4dc9e6b81818)
+
+
 - ⛰️🧗‍♂️ - Hobby :- Love Trekking
 - 💞️ I’m looking to collaborate on ⏳
     *🍁
