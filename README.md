@@ -24,9 +24,7 @@
     
     <img src="dont/h3.gif?raw=true"/>
     
-- 📫 How to reach me -
-- [LinkedIn](https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/{:target="_blank"})
-- [In](https://574n13y.github.io/){:target="_blank"} 
+- 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/) - [In](https://574n13y.github.io/){:target="_blank"} 
 
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
