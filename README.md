@@ -5,7 +5,8 @@
 ## Cloud Platforms ![70%](https://progress-bar.dev/70)  Leadership ![90%](https://progress-bar.dev/90)   Customer Experience ![100%](https://progress-bar.dev/100)
 ## Web Development ![70%](https://progress-bar.dev/70) IOT ![50%](https://progress-bar.dev/50) Enthusiast Learner ![100%](https://progress-bar.dev/100)
   
-   ![574n13y](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=nightowl)](https://git.io/streak-stats) 
+   ![574n13y](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)   
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=nightowl)](https://git.io/streak-stats) 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=574n13y&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats&hide=issues,contribs)
