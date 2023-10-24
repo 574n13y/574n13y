@@ -26,7 +26,10 @@
     
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/vivesh-tyagi-9085a9a9/) - [In](https://574n13y.github.io/)
 - watch my contributions eaten by Snake 🐍
-- ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
+
+  ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=nightowl)](https://git.io/streak-stats)   
+  
 
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
