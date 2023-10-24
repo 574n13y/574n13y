@@ -5,8 +5,8 @@
 ## Cloud Platforms ![70%](https://progress-bar.dev/70)  Leadership ![90%](https://progress-bar.dev/90)   Customer Experience ![100%](https://progress-bar.dev/100)
 ## Web Development ![70%](https://progress-bar.dev/70) IOT ![50%](https://progress-bar.dev/50) Enthusiast Learner ![100%](https://progress-bar.dev/100)
   
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&count_private=dark&show_icons=true&hide=issues,contribs)
+   ![574n13y](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=nightowl)](https://git.io/streak-stats) 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=574n13y&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats&hide=issues,contribs)
 
@@ -28,7 +28,7 @@
 - watch my contributions eaten by Snake 🐍
   ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
 
-  ![Dionne Noella's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)    |    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=nightowl)](https://git.io/streak-stats)   
+   
   
 
 <!---
