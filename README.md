@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=574n13y&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats&hide=issues,contribs)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2f5ed1be-c97a-4d11-9513-d3f9c87e2d44&langs_count=5&custom_title=574n13y's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=574n13y&langs_count=5&custom_title=574n13y's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="dont/h1.gif?raw=true"/>
 
