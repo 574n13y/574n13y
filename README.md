@@ -8,12 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
   
-   ![574n13y](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)   
+   ![574n13y](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl) 
+   
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=nightowl)](https://git.io/streak-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=574n13y&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats&hide=issues,contribs)
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=574n13y&custom_title=574n13y's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="dont/h1.gif?raw=true"/>
 
