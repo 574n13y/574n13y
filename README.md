@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivesh Tyagi
+- 👋 Hi, I’m Vivesh
 - 👨‍💻 Currently working as a Cloud Operations Specialist.
     ☁️
     
