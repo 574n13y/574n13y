@@ -2,9 +2,25 @@
 - 👨‍💻 Currently working as a Cloud Operations Specialist.
     ☁️
     
-## Cloud Platforms ![70%](https://progress-bar.dev/70)  Leadership ![90%](https://progress-bar.dev/90)   Customer Experience ![100%](https://progress-bar.dev/100)
-## Web Development ![70%](https://progress-bar.dev/70) IOT ![50%](https://progress-bar.dev/50) Enthusiast Learner ![100%](https://progress-bar.dev/100)
+## Skills and Progress
 
+### Cloud Platforms
+![70%](https://progress-bar.dev/70)
+
+### Leadership
+![90%](https://progress-bar.dev/90)
+
+### Customer Experience
+![100%](https://progress-bar.dev/100)
+
+### Web Development
+![70%](https://progress-bar.dev/70)
+
+### IoT (Internet of Things)
+![50%](https://progress-bar.dev/50)
+
+### Enthusiast Learner
+![100%](https://progress-bar.dev/100)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
   
