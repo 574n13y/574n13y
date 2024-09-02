@@ -1,32 +1,32 @@
 - 👋 Hi, I’m Vivesh
 - 👨‍💻 Currently working as a Cloud Operations Specialist.
     ☁️
-    
 ## Skills and Progress
 
 ### Cloud Platforms
-70%  
-![Cloud Platforms Progress](https://your-image-host.com/70percent.png)
+70% 
+███████████░░░░░░░░░░  (7/10)
 
 ### Leadership
-90%  
-![Leadership Progress](https://your-image-host.com/90percent.png)
+90% 
+███████████████████░░  (9/10)
 
 ### Customer Experience
-100%  
-![Customer Experience Progress](https://your-image-host.com/100percent.png)
+100% 
+██████████████████████  (10/10)
 
 ### Web Development
-70%  
-![Web Development Progress](https://your-image-host.com/70percent.png)
+70% 
+███████████░░░░░░░░░░  (7/10)
 
 ### IoT (Internet of Things)
-50%  
-![IoT Progress](https://your-image-host.com/50percent.png)
+50% 
+████████░░░░░░░░░░░░░  (5/10)
 
 ### Enthusiast Learner
-100%  
-![Enthusiast Learner Progress](https://your-image-host.com/100percent.png)
+100% 
+██████████████████████  (10/10)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
