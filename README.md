@@ -6,27 +6,28 @@
 
 ### Cloud Platforms
 70%  
-![70%](https://progress-bar.dev/70)
+![Cloud Platforms Progress](https://your-image-host.com/70percent.png)
 
 ### Leadership
 90%  
-![90%](https://progress-bar.dev/90)
+![Leadership Progress](https://your-image-host.com/90percent.png)
 
 ### Customer Experience
 100%  
-![100%](https://progress-bar.dev/100)
+![Customer Experience Progress](https://your-image-host.com/100percent.png)
 
 ### Web Development
 70%  
-![70%](https://progress-bar.dev/70)
+![Web Development Progress](https://your-image-host.com/70percent.png)
 
 ### IoT (Internet of Things)
 50%  
-![50%](https://progress-bar.dev/50)
+![IoT Progress](https://your-image-host.com/50percent.png)
 
 ### Enthusiast Learner
 100%  
-![100%](https://progress-bar.dev/100)
+![Enthusiast Learner Progress](https://your-image-host.com/100percent.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=574n13y&label=Profile%20views&color=0e75b6&style=flat" alt="574n13y" /> </p>
   
