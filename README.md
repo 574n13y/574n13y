@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivesh
-- 👨‍💻 Currently working as a Cloud Operations Specialist.
+- 👨‍💻 Currently working as Sr. Cloud Operations Specialist.
     ☁️
 ## Skills and Progress
 
