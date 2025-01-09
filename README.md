@@ -63,8 +63,37 @@
 - [Portfolio](https://574n13y.github.io)
 - [Personal Webpage](https://vivesh.vercel.app/)
 
-## 🐍 Watch my contributions get eaten by a snake!
+## 🏆 GitHub Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=574n13y&theme=discord&no-bg=true)](https://github.com/574n13y/github-profile-trophy)
 
+## 📊 Activity Graph
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=574n13y&theme=react-dark&hide_border=true)](https://github.com/574n13y/github-readme-activity-graph)
+
+## ⏱️ WakaTime Stats
+[![wakatime](https://wakatime.com/badge/user/20247613-4fcc-41c2-995d-29cbf23ad80f.svg)](https://wakatime.com/@20247613-4fcc-41c2-995d-29cbf23ad80f)
+
+## 🎥 Pick Me Up Videos
+- [The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by Carol Dweck
+- [How to Make Best Use of the Most Important Tool in a Software Developer's Toolkit - Your Brain](https://www.youtube.com/watch?v=XOIDnNA9N7c) by Barbara Oakley
+- [Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by Angela Lee Duckworth
+
+## 🛠️ Languages and Tools
+<table>
+  <tr>
+    <td align='center'><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="gcp" width="60" height="40"/></a></td>
+    <td align='center'><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="60" height="40"/></a></td>
+    <td align='center'><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
+  </tr>
+  <tr>
+    <td align='center'><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
+## 🐍 Watch my contributions get eaten by a snake!
 ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
 
 ---
