@@ -32,7 +32,7 @@
 100%
 ![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![574n13y's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)
 
@@ -59,10 +59,15 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+## 🌐 Portfolio and Personal Webpage
+- [Portfolio](https://574n13y.github.io)
+- [Personal Webpage](https://vivesh.vercel.app/)
+
 ## 🐍 Watch my contributions get eaten by a snake!
 
 ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
 
+---
 
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
