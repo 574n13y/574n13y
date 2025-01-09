@@ -21,24 +21,24 @@ Welcome to my GitHub Profile!
 ### **Skills and Progress** 🚀  
 
 #### **Cloud Platforms:**  
-- ![AWS](https://img.shields.io/badge/AWS-70%25-brightgreen)  
-- ![GCP](https://img.shields.io/badge/GCP-70%25-brightgreen)  
+- ![AWS](https://img.shields.io/badge/AWS-70%25-brightgreen?logo=amazon-aws&logoColor=white)  
+- ![GCP](https://img.shields.io/badge/GCP-70%25-brightgreen?logo=google-cloud&logoColor=white)  
 
 #### **DevOps Tools:**  
-- ![Terraform](https://img.shields.io/badge/Terraform-70%25-brightgreen)  
-- ![Docker](https://img.shields.io/badge/Docker-70%25-brightgreen)  
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-brightgreen)  
+- ![Terraform](https://img.shields.io/badge/Terraform-70%25-brightgreen?logo=terraform&logoColor=white)  
+- ![Docker](https://img.shields.io/badge/Docker-70%25-brightgreen?logo=docker&logoColor=white)  
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-brightgreen?logo=kubernetes&logoColor=white)  
 
 #### **Soft Skills:**  
-- ![Leadership](https://img.shields.io/badge/Leadership-90%25-green)  
-- ![Customer Experience](https://img.shields.io/badge/Customer%20Experience-100%25-blue)  
+- ![Leadership](https://img.shields.io/badge/Leadership-90%25-green?logo=handshake&logoColor=white)  
+- ![Customer Experience](https://img.shields.io/badge/Customer%20Experience-100%25-blue?logo=smile&logoColor=white)  
 
 #### **Technical Skills:**  
-- ![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen)  
-- ![IoT](https://img.shields.io/badge/IoT-40%25-yellow)  
+- ![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen?logo=html5&logoColor=white)  
+- ![IoT](https://img.shields.io/badge/IoT-40%25-yellow?logo=internet-of-things&logoColor=white)  
 
 #### **Personal Qualities:**  
-- ![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue)  
+- ![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue?logo=open-book&logoColor=white)  
 
 
 
