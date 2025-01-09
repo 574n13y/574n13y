@@ -71,7 +71,21 @@
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=574n13y&theme=react-dark&hide_border=true)](https://github.com/574n13y/github-readme-activity-graph)
 
 ## 📊 Repo Stats
-![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
+
+### Total Contributions per Year
+![Total Contributions](total_contributions.png)
+
+### Storage Used in GitHub
+![Storage Used](storage_used.png)
+
+### Number of Public and Private Repositories
+![Repo Count](repo_count.png)
+
+### Most Productive Day of the Week
+![Productive Days](productive_days.png)
+
+### Number of Commits per Day
+![Commits per Day](commits_per_day.png)
 
 
 ## 🛠️ Languages and Tools
