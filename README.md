@@ -18,19 +18,28 @@ Welcome to my GitHub Profile!
 ---
 
 
-### **Skills and Progress** 🚀
+### **Skills and Progress** 🚀  
 
-**Cloud Platforms:**
- - ![AWS](https://img.shields.io/badge/AWS-70%-brightgreen)
- - ![GCP](https://img.shields.io/badge/GCP-70%-brightgreen)
-![Terraform](https://img.shields.io/badge/Terraform-70%-brightgreen)
-![Docker](https://img.shields.io/badge/Docker-70%-brightgreen)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-70%-brightgreen)
-![Leadership](https://img.shields.io/badge/Leadership-90%25-green)
-![Customer Experience](https://img.shields.io/badge/Customer%20Experience-100%25-blue)
-![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen)
-![IoT](https://img.shields.io/badge/IoT-40%25-yellow)
-![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue)
+#### **Cloud Platforms:**  
+- ![AWS](https://img.shields.io/badge/AWS-70%25-brightgreen)  
+- ![GCP](https://img.shields.io/badge/GCP-70%25-brightgreen)  
+
+#### **DevOps Tools:**  
+- ![Terraform](https://img.shields.io/badge/Terraform-70%25-brightgreen)  
+- ![Docker](https://img.shields.io/badge/Docker-70%25-brightgreen)  
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-70%25-brightgreen)  
+
+#### **Soft Skills:**  
+- ![Leadership](https://img.shields.io/badge/Leadership-90%25-green)  
+- ![Customer Experience](https://img.shields.io/badge/Customer%20Experience-100%25-blue)  
+
+#### **Technical Skills:**  
+- ![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen)  
+- ![IoT](https://img.shields.io/badge/IoT-40%25-yellow)  
+
+#### **Personal Qualities:**  
+- ![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue)  
+
 
 
 ---
