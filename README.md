@@ -85,7 +85,7 @@ Welcome to my GitHub Profile!
   </tr>
   <tr>
     <td align='center'><a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/></a></td>
-    <td align='center'><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/></a></td>
+    <td align='center'><a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash scripting" width="40"/><br><sub>Bash Scripting</sub></a></td>
     <td align='center'><a href="https://yaml.org/"><img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40"/></a></td>
     <td align='center'><a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></a></td>
   </tr>
