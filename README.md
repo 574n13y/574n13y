@@ -70,7 +70,11 @@
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=574n13y&theme=react-dark&hide_border=true)](https://github.com/574n13y/github-readme-activity-graph)
 
 ## 📊 Repo Stats
-![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
+- **Total contributions in 2023**: 617
+- **Total contributions in 2024**: 904
+- **Total contributions in 2025**: 46 (till 9th Jan)
+- **Public repositories**: 45
+- **Private repositories**: 7
 
 ## 🎥 Pick Me Up Videos
 - [The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by Carol Dweck
