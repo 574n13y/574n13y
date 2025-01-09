@@ -42,7 +42,7 @@
 
 ## 🌟 Interests and Hobbies
 
-- 👀 I’m interested in:
+* 👀 I’m interested in:
   - Cloud Engineer
   - Cloud Specialist
   - DevOps Engineer
@@ -50,6 +50,7 @@
   - Site Reliability Engineer
 
 ![Interest Image 1](https://github.com/574n13y/574n13y/assets/35293085/46dfc20c-4624-4656-a0a6-4a498f35e93f)
+
 ![Interest Image 2](https://github.com/574n13y/574n13y/assets/35293085/bc74f390-fc31-42fe-b7cd-4dc9e6b81818)
 
 - ⛰️🧗‍♂️ **Hobby:** Love Trekking
@@ -59,9 +60,9 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 🌐 Portfolio and Personal Webpage
-- [Portfolio](https://574n13y.github.io)
-- [Personal Webpage](https://vivesh.vercel.app/)
+## 🌐 Portfolio 
+- [Github](https://574n13y.github.io)
+- [Portfolio](https://vivesh.vercel.app/)
 
 ## 🏆 GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=574n13y&theme=discord&no-bg=true)](https://github.com/574n13y/github-profile-trophy)
@@ -72,10 +73,6 @@
 ## 📊 Repo Stats
 ![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
 
-## 🎥 Pick Me Up Videos
-- [The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by Carol Dweck
-- [How to Make Best Use of the Most Important Tool in a Software Developer's Toolkit - Your Brain](https://www.youtube.com/watch?v=XOIDnNA9N7c) by Barbara Oakley
-- [Grit - The Power of Passion and Perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) by Angela Lee Duckworth
 
 ## 🛠️ Languages and Tools
 <table>
@@ -86,8 +83,13 @@
     <td align='center'><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a></td>
   </tr>
   <tr>
-    <td align='center'><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td align='center'><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a></td>
+    <td align='center'><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
+    </tr>
+  <tr>
+    <td align='center'><a href="https://yaml.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg" alt="yaml" width="40" height="40"/></a></td>
     <td align='center'><a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a></td>
     <td align='center'><a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a></td>
   </tr>
