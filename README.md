@@ -9,43 +9,30 @@
 ## 🚀 Skills and Progress
 
 ### Cloud Platforms
-70% 
-```
-
-███████████░░░░░░░░░░  (7/10)
-```
+70%
+![Cloud Platforms](https://img.shields.io/badge/Cloud%20Platforms-70%25-brightgreen)
 
 ### Leadership
-90% 
-```
-███████████████████░░  (9/10)
-```
+90%
+![Leadership](https://img.shields.io/badge/Leadership-90%25-green)
 
 ### Customer Experience
-100% 
-```
-██████████████████████  (10/10)
-```
+100%
+![Customer Experience](https://img.shields.io/badge/Customer%20Experience-100%25-blue)
 
 ### Web Development
-70% 
-```
-███████████░░░░░░░░░░  (7/10)
-```
+70%
+![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen)
 
 ### IoT (Internet of Things)
 50%
-```
-████████░░░░░░░░░░░░░  (5/10)
-```
+![IoT](https://img.shields.io/badge/IoT-50%25-yellow)
 
 ### Enthusiast Learner
 100%
-```
-██████████████████████  (10/10)
-```
+![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue)
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![574n13y's GitHub stats](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=nightowl)
 
@@ -68,14 +55,16 @@
 - ⛰️🧗‍♂️ **Hobby:** Love Trekking
 - 💞️ I’m looking to collaborate on exciting projects ⏳
 
+## 📈 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 🐍 Watch my contributions get eaten by a snake!
 
 ![snake gif](https://github.com/Mario263/sankeeatingcontribution/blob/output/github-contribution-grid-snake.gif)
 
----
 
 <!---
 574n13y/574n13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```
