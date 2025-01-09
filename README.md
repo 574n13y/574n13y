@@ -24,7 +24,7 @@ Welcome to my GitHub Profile!
 
 ![Terraform](https://img.shields.io/badge/Terraform-75%25-blueviolet)
 
-![Docker ](https://img.shields.io/badge/Docker%20-70%25-Advanced-yellow)
+![docker ](https://img.shields.io/badge/docker%20-70%25-Advanced-yellow)
 
 ![kubernetes](https://img.shields.io/badge/Kubernetes-70%25-yellow)
 
