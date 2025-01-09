@@ -20,16 +20,18 @@ Welcome to my GitHub Profile!
 
 ### **Skills and Progress** 🚀
 
-- **Cloud Platforms:**
-- **AWS:** ![70%](https://progress-bar.dev/70)  **GCP** ![70%](https://progress-bar.dev/70)
-- **Terraform:** ![75%](https://progress-bar.dev/75)  
-- **Docker:** ![80%](https://progress-bar.dev/80)  
-- **Kubernetes:** ![70%](https://progress-bar.dev/70)  
-- **Leadership:** ![90%](https://progress-bar.dev/90)  
-- **Customer Experience:** ![100%](https://progress-bar.dev/100)  
-- **Web Development:** ![70%](https://progress-bar.dev/70)  
-- **IoT:** ![50%](https://progress-bar.dev/50)  
-- **Enthusiast Learner:** ![100%](https://progress-bar.dev/100)
+**Cloud Platforms:**
+ - ![AWS](https://img.shields.io/badge/AWS-70%-brightgreen)
+ - ![GCP](https://img.shields.io/badge/GCP-70%-brightgreen)
+![Terraform](https://img.shields.io/badge/Terraform-70%-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-70%-brightgreen)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-70%-brightgreen)
+![Leadership](https://img.shields.io/badge/Leadership-90%25-green)
+![Customer Experience](https://img.shields.io/badge/Customer%20Experience-100%25-blue)
+![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen)
+![IoT](https://img.shields.io/badge/IoT-40%25-yellow)
+![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue)
+
 
 ---
 
