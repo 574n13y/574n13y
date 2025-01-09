@@ -69,8 +69,8 @@
 ## 📊 Activity Graph
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=574n13y&theme=react-dark&hide_border=true)](https://github.com/574n13y/github-readme-activity-graph)
 
-## ⏱️ WakaTime Stats
-[![wakatime](https://wakatime.com/badge/user/20247613-4fcc-41c2-995d-29cbf23ad80f.svg)](https://wakatime.com/@20247613-4fcc-41c2-995d-29cbf23ad80f)
+## 📊 Repo Stats
+![Alt](https://repobeats.axiom.co/api/embed/b21379ce809929d18a17f2f2727bdd6ee03c30a7.svg "Repobeats analytics image")
 
 ## 🎥 Pick Me Up Videos
 - [The Power of Not Yet](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) by Carol Dweck
