@@ -36,11 +36,10 @@ Welcome to my GitHub Profile!
 #### **Technical Skills:**  
 - ![Web Development](https://img.shields.io/badge/Web%20Development-70%25-brightgreen?logo=html5&logoColor=white)  
 - ![IoT](https://img.shields.io/badge/IoT-40%25-yellow?logo=internet-of-things&logoColor=white)  
+- ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-60%25-yellowgreen?logo=gnu-bash&logoColor=white)  
 
 #### **Personal Qualities:**  
 - ![Enthusiast Learner](https://img.shields.io/badge/Enthusiast%20Learner-100%25-blue?logo=open-book&logoColor=white)  
-
-
 
 ---
 
