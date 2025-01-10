@@ -7,10 +7,12 @@ Welcome to my GitHub Profile!
 ## 🌟 **About Me**
 - 🌍 **Location:** 127.0.0.1  
 - 👨‍💻 **Role:** Sr. Cloud Operations Specialist ☁️  
-- 💼 **Affiliation:** UKG (Ultimate Kronos Group)  
-- 🌐 **Website:** [vivesh.vercel.app](https://vivesh.vercel.app/)
-- 🌐 **GitHub Pages:** [574n13y.github.io](https://574n13y.github.io/)
-- 💬 **LinkedIn:** [Connect with me!](https://in.linkedin.com/in/vivesh-tyagi-9085a9a9)  
+- 💼 **Affiliation:** <a href="https://www.ukg.com/" target="_blank">UKG (Ultimate Kronos Group)</a>  
+- 🌐 **Website:** <a href="https://vivesh.vercel.app/" target="_blank">vivesh.vercel.app</a>  
+- 🌐 **GitHub Pages:** <a href="https://574n13y.github.io/" target="_blank">574n13y.github.io</a>  
+- 💬 **LinkedIn:** <a href="https://in.linkedin.com/in/vivesh-tyagi-9085a9a9" target="_blank">Connect with me!</a>  
+- 🎓 **Certifications:** <a href="https://www.credly.com/users/vivesh-tyagi" target="_blank">View my certifications</a>
+
 
 ---
 
@@ -47,7 +49,8 @@ Welcome to my GitHub Profile!
 ## 📊 **GitHub Stats**  
 
 ### **Performance Metrics**  
-![GitHub stats](https://github-readme-stats-alpha-blush-52.vercel.app/api?username=574n13y&count_private=true&show_icons=true&hide=issues,contribs,prs&show=prs_merged)
+<!-- ![GitHub stats](https://github-readme-stats-alpha-blush-52.vercel.app/api?username=574n13y&count_private=true&show_icons=true&hide=issues,contribs,prs&show=prs_merged) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=radical)  
 
 ### **Streak Overview**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=radical)  
