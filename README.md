@@ -47,7 +47,7 @@ Welcome to my GitHub Profile!
 ## 📊 **GitHub Stats**  
 
 ### **Performance Metrics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=574n13y&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats-alpha-blush-52.vercel.app/api?username=574n13y&count_private=true&show_icons=true&hide=issues,contribs,prs&show=prs_merged)
 
 ### **Streak Overview**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=574n13y&theme=radical)  
